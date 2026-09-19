@@ -38,7 +38,7 @@ Causal inference experiments on the RAD (Radiology) dataset, focusing on radiolo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Rangan2005/causal-medvqa-distillation.git
+git clone repository_link
 cd causal-medvqa-distillation
 ```
 
